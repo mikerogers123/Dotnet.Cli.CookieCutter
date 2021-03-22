@@ -15,8 +15,10 @@ As a developer, creating a console application is often the easiest way to perfo
 
 ## Usage
 
+- Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- Install [.NET Core 3.1 SDK](https://dotnet.microsoft.com/download/dotnet/3.1)
 - Install cookiecutter - [guidance](https://cookiecutter.readthedocs.io/en/1.7.2/installation.html)
-- Open CMD prompt
+- Open CMD prompt/bash (shell of choice)
 - Navigate to the directory you want your application to sit in
 - Decide on a project name
 - Execute `cookiecutter https://github.com/mikerogers123/Dotnet.Cli.CookieCutter.git`, supplying your desired project name when prompted

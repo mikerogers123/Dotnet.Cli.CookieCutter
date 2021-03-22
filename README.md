@@ -19,4 +19,4 @@ As a developer, creating a console application is often the easiest way to perfo
 - Open CMD prompt
 - Navigate to the directory you want your application to sit in
 - Decide on a project name
-- Execute `cookiecutter X`, supplying your desired project name when prompted
+- Execute `cookiecutter https://github.com/mikerogers123/Dotnet.Cli.CookieCutter.git`, supplying your desired project name when prompted
